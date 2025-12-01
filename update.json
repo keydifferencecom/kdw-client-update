@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "download_url": "https://kdw.keydifference.com/wp-content/uploads/kdw-client-plugin/kdw-client-1.1.0.zip",
+  "homepage": "https://kdw.keydifference.com/",
+  "requires": "6.0",
+  "tested": "6.5",
+  "requires_php": "7.4",
+  "sections": {
+    "description": "<p>Release highlights…</p>",
+    "changelog": "<ul><li>Fix …</li></ul>"
+  },
+  "banners": {
+    "1x": "https://kdw.keydifference.com/wp-content/uploads/kdw-client-plugin/banner-772x250.png",
+    "2x": "https://kdw.keydifference.com/wp-content/uploads/kdw-client-plugin/banner-1544x500.png"
+  }
+}

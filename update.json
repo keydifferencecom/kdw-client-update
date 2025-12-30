@@ -1,13 +1,13 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/keydifferencecom/kdw-client-update/raw/refs/heads/main/kdw-client-1.1.0.zip",
+  "version": "1.2.0",
+  "download_url": "https://github.com/keydifferencecom/kdw-client-update/raw/refs/heads/main/kdw-client-1.2.0.zip",
   "homepage": "https://kdw.keydifference.com/",
   "requires": "6.0",
   "tested": "6.5",
   "requires_php": "7.4",
   "sections": {
-    "description": "<p>Release highlights…</p>",
-    "changelog": "<ul><li>Fix …</li></ul>"
+    "description": "<p>Test mode enabled</p>",
+    "changelog": "<ul><li></li></ul>"
   },
   "banners": {
     "1x": "https://github.com/keydifferencecom/kdw-client-update/raw/refs/heads/main/banner-772x250.png",

@@ -1,0 +1,6 @@
+version 1.2.0 - 30.12.2025
+
+ADDED
+-- test mode (it forces new posts to be DRAFT)
+
+==============================
